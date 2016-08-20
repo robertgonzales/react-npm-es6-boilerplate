@@ -1,7 +1,8 @@
 {
   "name": "react-npm-es6-boilerplate",
-  "description": "A boilerplate for creating react npm packages",
-  "version": "0.1.0",
+  "description": "Boilerplate for creating npm packages using es6 and react",
+  "main": "dist/index.js",
+  "version": "1.0.0",
   "author": "Robert Gonzales",
   "license": "MIT",
   "keywords": [
